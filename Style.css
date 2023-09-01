@@ -1,0 +1,56 @@
+body{display: flex;
+justify-content: end;
+background-image: url(background.png);
+background-size:  700px 650px;
+background-repeat: no-repeat;
+background-position: 0px 0px ;}
+
+div
+{box-shadow: 0px 10px 40px gray;
+background-image: url(background.png);
+background-size: 355px 1px;
+text-align: center;
+border-radius: 10px;
+padding: 20px 40px 20px 40px;
+margin-right: 200px;
+margin-top: 120px;}
+
+button
+{background-color: white;
+border: none;
+border-radius: 10px;
+padding: 15px 40px 15px 40px;
+box-shadow: 0 10px 40px  white;
+cursor: pointer;}
+
+h1
+{font-family:'Bebas Neue', sans-serif;
+margin-top: 30px;}
+
+input
+{border: none;
+background-color: white;
+box-shadow: 0 5px 10px gray;
+margin-bottom: 10px;
+padding: 10px 50px 10px 50px;
+border-radius: 10px;}
+
+.animated{margin-top: 90px;}
+
+#palavras
+{font-size: 14px;
+color: black;
+font-family:'Bebas Neue', sans-serif;
+margin-bottom: 0;}
+
+
+button:hover {background-color: #F2F2F2;
+box-shadow: 0px 0px 90px -18px;}
+  
+button:active {transform: scale(0.95);}
+
+#login{margin-top: 100px;}
+
+
+
+

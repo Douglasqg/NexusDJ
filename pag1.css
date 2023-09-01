@@ -1,0 +1,60 @@
+#barra
+{background-color: white;
+padding: 20px 20px 20px 20px;
+border-radius: 10px;
+box-shadow: 0px 10px 40px gray;
+text-align: right;}
+
+body
+{background-image: url(background.png);
+background-size:  700px 1200px;
+background-repeat: no-repeat;}
+
+#left
+{color: black;
+width: 600px;
+float: left;
+margin-left: 30px;}
+
+#right
+{width: 600px;
+float: right;
+margin-right: 30px;
+margin-top: 40px;}
+
+#button
+{border: none;
+background-color: white;
+box-shadow: 0px 10px 40px gray;
+padding: 10px 10px;
+border-radius: 8px;
+margin-right: 5px;}
+
+#p
+{font-family:'Bebas Neue', sans-serif;
+font-size: 30px;}
+
+h1
+{font-family:'Bebas Neue', sans-serif;
+font-size: 80px;}
+
+#sobre
+{font-family:'Bebas Neue', sans-serif;
+font-size: 25px;}
+
+h2
+{font-family:'Bebas Neue', sans-serif;
+margin-left: 105px;}
+
+#pp
+{font-family: 'Bebas Neue', sans-serif;
+margin-left: 105px;}
+
+#button:hover {background-color: #F2F2F2;
+    box-shadow: 0px 0px 90px -18px;}
+      
+button:active {transform: scale(0.95);}
+
+
+
+
